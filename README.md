@@ -2,7 +2,7 @@
 
 - 🔭 I’m a graduate student at Huazhong University of Science & Technology in Computer Science & Engineering.
 - 🌱 I’m currently learning MLSys/GPU/CUDA/...
-- 👀 I’m reading《clean code》.
+- 👀 I’m reading *clean code*.
 ## 🛠 Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white)
